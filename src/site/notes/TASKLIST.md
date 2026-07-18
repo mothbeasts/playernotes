@@ -16,4 +16,4 @@
     Location : REACTOR
 	Take 1 task action.
 - [ ] PERSONAL TASK
-	Knowingly and consciously defend an Imposter during a meeting.
+	Knowingly and consciously defend an Imposter during a meeting,.
