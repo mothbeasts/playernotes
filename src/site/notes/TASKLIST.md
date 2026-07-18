@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasklist/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tasklist/","dgShowLocalGraph":"false","dg-note-properties":{}}
 ---
 
 - [ ] SWIPE CARD
