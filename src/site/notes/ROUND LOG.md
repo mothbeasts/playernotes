@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/round-log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/round-log/","dgShowLocalGraph":"false","dg-note-properties":{}}
 ---
 
 ```
