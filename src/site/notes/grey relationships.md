@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/grey-relationships/","dg-note-properties":{}}
 ---
 
-![Pasted image 20260718194027.png](/img/user/Pasted%20image%2020260718194027.png)
-
 ADVISOR
 	n/a
 CAT
