@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grey-relationships/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/grey-relationships/","dgShowLocalGraph":"false","dg-note-properties":{}}
 ---
 
 ADVISOR
