@@ -8,8 +8,9 @@ CAT
 	Neutral
 		Does not mind their presence! Does not care either. Doesn't know anything about cats, really.
 GREEN
-	Dislikes
+	HATE
 		Finds his greed absolutely disgusting. yucky.
+		FINDS EVERYTHING HE DOES ABSOLUTELY DISGUSTING DEAR GOD
 LILAC
 	Dislikes
 		Very quiet. Very unengaged-seeming. For someone who is working in communications they do not seem to do very much communicating. Annoying.
