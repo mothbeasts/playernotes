@@ -14,3 +14,4 @@ KNOWN RELATIONS : n/a
 
 NOTES : 
 - Crewmate color = Pink
+- Thinks I'm their dead crewmate. Poor thing. 
