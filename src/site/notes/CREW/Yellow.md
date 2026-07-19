@@ -13,4 +13,4 @@ KNOWN RELATIONS : n/a
 ---
 
 NOTES : 
-- lorem ipsum
+- Incredibly overbearingly positive. Yuck. I hate forced workplace friendliness.
